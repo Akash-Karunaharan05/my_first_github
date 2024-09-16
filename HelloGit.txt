@@ -1,0 +1,2 @@
+Hello Git!
+This file will be used to make my first commit to the local repository on GitHub!
